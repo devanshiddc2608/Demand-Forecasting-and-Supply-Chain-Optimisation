@@ -1,0 +1,21 @@
+# Virtual environment
+py311-dfsc/
+venv/
+.env/
+
+# Data files — download separately
+data/raw/
+data/processed/
+data/external/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files — regenerate by running notebooks
+outputs/figures/
