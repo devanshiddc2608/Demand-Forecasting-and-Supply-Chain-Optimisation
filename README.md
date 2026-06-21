@@ -96,7 +96,7 @@ dfsc/
 ```
 
 ## Setup
-\`\`\`bash
+```bash
 git clone https://github.com/devanshiddc2608/Demand-Forecasting-and-Supply-Chain-Optimisation.git
 cd Demand-Forecasting-and-Supply-Chain-Optimisation
 
