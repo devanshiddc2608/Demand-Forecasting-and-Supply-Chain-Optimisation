@@ -127,4 +127,4 @@ and place them in `data/raw/`. Then run notebooks `01` through `06` in order
 ![Scenario Planning](assets/screenshots/page4_scenario_planning.png)
 
 ## Author
-Devanshi Chauhan | [LinkedIn] | [Portfolio]
+Devanshi Chauhan | [LinkedIn](https://www.linkedin.com/in/devanshi-chauhan-879031230/)
