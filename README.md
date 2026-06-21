@@ -105,7 +105,7 @@ pip install -e .
 
 # Install all dependencies
 pip install -r requirements.txt
-\`\`\`
+```
 
 **Before running the notebooks**, download `train.csv` and `store.csv` from 
 the [Rossmann Store Sales dataset](https://www.kaggle.com/c/rossmann-store-sales/data) 
